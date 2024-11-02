@@ -1,0 +1,15 @@
+/home/chris/Programs/rustprojects/multiple-future/target/debug/deps/libmarkup5ever-6ab37283a688c6fd.rmeta: /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/lib.rs /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/data/mod.rs /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/interface/mod.rs /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/interface/tree_builder.rs /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/serialize.rs /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/util/buffer_queue.rs /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/util/smallcharset.rs /home/chris/Programs/rustprojects/multiple-future/target/debug/build/markup5ever-6b42b2e91b2a9183/out/generated.rs /home/chris/Programs/rustprojects/multiple-future/target/debug/build/markup5ever-6b42b2e91b2a9183/out/named_entities.rs
+
+/home/chris/Programs/rustprojects/multiple-future/target/debug/deps/markup5ever-6ab37283a688c6fd.d: /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/lib.rs /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/data/mod.rs /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/interface/mod.rs /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/interface/tree_builder.rs /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/serialize.rs /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/util/buffer_queue.rs /home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/util/smallcharset.rs /home/chris/Programs/rustprojects/multiple-future/target/debug/build/markup5ever-6b42b2e91b2a9183/out/generated.rs /home/chris/Programs/rustprojects/multiple-future/target/debug/build/markup5ever-6b42b2e91b2a9183/out/named_entities.rs
+
+/home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/lib.rs:
+/home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/data/mod.rs:
+/home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/interface/mod.rs:
+/home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/interface/tree_builder.rs:
+/home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/serialize.rs:
+/home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/util/buffer_queue.rs:
+/home/chris/.cargo/registry/src/index.crates.io-6f17d22bba15001f/markup5ever-0.12.1/util/smallcharset.rs:
+/home/chris/Programs/rustprojects/multiple-future/target/debug/build/markup5ever-6b42b2e91b2a9183/out/generated.rs:
+/home/chris/Programs/rustprojects/multiple-future/target/debug/build/markup5ever-6b42b2e91b2a9183/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/home/chris/Programs/rustprojects/multiple-future/target/debug/build/markup5ever-6b42b2e91b2a9183/out
