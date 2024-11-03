@@ -63,7 +63,7 @@ pub fn search_case_insensitive<'a>(
 
     contents
         .lines()
-        .filter(|line| line.contains(query))
+        .filter(|line| line.contains(&query))
         .collect()
 }
 
