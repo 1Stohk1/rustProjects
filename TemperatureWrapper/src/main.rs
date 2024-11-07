@@ -13,7 +13,7 @@ fn main() {
         .read_line(&mut farhenheit)
         .expect("Failed to read line");
 
-    let mut farhenheit: u32 = farhenheit
+    let farhenheit: u32 = farhenheit
         .trim()
         .parse()
         .expect("Please type a number!");
